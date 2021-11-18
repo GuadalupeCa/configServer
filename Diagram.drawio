@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2021-11-05T23:19:44.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="OChf7Yx93DsKxe4k2iP4" version="15.7.0" type="github">
+  <diagram id="spNqAZ3qhx7JEoTUSXgA" name="Page-1">
+    <mxGraphModel dx="1550" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJ6_RSInEx6ggEBpYNkB-42" target="3eyxVVRuLJBgOBvVtlo6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJ6_RSInEx6ggEBpYNkB-42" target="3eyxVVRuLJBgOBvVtlo6-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="121" y="320" />
+              <mxPoint x="384" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJ6_RSInEx6ggEBpYNkB-42" value="Client ms" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/bluemix.svg;" parent="1" vertex="1">
+          <mxGeometry x="91" y="380" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJ6_RSInEx6ggEBpYNkB-43" target="3eyxVVRuLJBgOBvVtlo6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJ6_RSInEx6ggEBpYNkB-43" target="3eyxVVRuLJBgOBvVtlo6-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="320" />
+              <mxPoint x="384" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJ6_RSInEx6ggEBpYNkB-43" value="Product&amp;nbsp;ms" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/bluemix.svg;" parent="1" vertex="1">
+          <mxGeometry x="270" y="380" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJ6_RSInEx6ggEBpYNkB-49" target="3eyxVVRuLJBgOBvVtlo6-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJ6_RSInEx6ggEBpYNkB-49" target="3eyxVVRuLJBgOBvVtlo6-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="320" />
+              <mxPoint x="384" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJ6_RSInEx6ggEBpYNkB-49" value="Credit&amp;nbsp;ms" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/bluemix.svg;" parent="1" vertex="1">
+          <mxGeometry x="450" y="380" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJ6_RSInEx6ggEBpYNkB-50" target="3eyxVVRuLJBgOBvVtlo6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJ6_RSInEx6ggEBpYNkB-50" target="3eyxVVRuLJBgOBvVtlo6-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="320" />
+              <mxPoint x="384" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJ6_RSInEx6ggEBpYNkB-50" value="Debit ms" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/bluemix.svg;" parent="1" vertex="1">
+          <mxGeometry x="630" y="380" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-1" value="client" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="91" y="500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-4" value="debit" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="630" y="500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-5" value="credit" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-6" value="product" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-13" value="Api Gateway" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/bluemix.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3eyxVVRuLJBgOBvVtlo6-14" target="3eyxVVRuLJBgOBvVtlo6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-14" value="Eureka" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/bluemix.svg;" vertex="1" parent="1">
+          <mxGeometry x="354" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eyxVVRuLJBgOBvVtlo6-15" value="Config Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/bluemix.svg;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
