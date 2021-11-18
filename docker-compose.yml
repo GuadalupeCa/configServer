@@ -1,0 +1,46 @@
+version: "3.8"
+
+services:
+  configserver:
+    image: configserver
+    ports:
+      - "8888:8888"
+  eureka:
+    image: eureka
+    depends_on:
+      - configserver
+    ports:
+      - "8761:8761"
+  apigateway:
+    image: configserver
+    depends_on:
+      - configserver
+      - eureka
+    ports:
+      - "8080:8080"
+  clientms:
+    image: clientms
+    environment:
+      MONGO_URL: "mongodb://financialDB:27017/clientDB"
+    depends_on:
+      - finantialDB
+      - configserver
+      - eureka
+      - apigateway
+    ports:
+      - "8081:8081"
+  productms:
+    image: productms
+    environment:
+      MONGO_URL: "mongodb://financialDB:27017/clientDB"
+    depends_on:
+      - finantialDB
+      - configserver
+      - eureka
+      - apigateway
+    ports:
+      - "8082:8082"
+  finantialDB:
+    image: mongo
+    volumes:
+      - /home/lu/Desktop:/data/db
